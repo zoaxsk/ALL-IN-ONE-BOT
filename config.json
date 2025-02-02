@@ -32,7 +32,7 @@
       "password": "prplmoe.me",
       "host": "lavav4.prplmoe.me",
       "port": 1118,
-      "secure": false
+      "secure": true
 
         }
     }, 
